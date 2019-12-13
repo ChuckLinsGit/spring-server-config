@@ -1,2 +1,7 @@
 info:
   profile: dev
+
+demo:
+  enviroment:
+     name: dev
+
