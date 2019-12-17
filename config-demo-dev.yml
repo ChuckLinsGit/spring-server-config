@@ -3,5 +3,6 @@ info:
 
 demo:
   enviroment:
-     name: {cipher}0313ff4014d1197c6a9e78217a4f8e0272ba15d5363d8eb97c78fe00dfc03ea1
+#   注意：yml格式严格，加入{cipher}后整个值都用单引号围住
+     name: '{cipher}0313ff4014d1197c6a9e78217a4f8e0272ba15d5363d8eb97c78fe00dfc03ea1'
 
