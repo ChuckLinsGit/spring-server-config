@@ -3,5 +3,5 @@ info:
 
 demo:
   enviroment:
-     name: dev
+     name: {cipher}0313ff4014d1197c6a9e78217a4f8e0272ba15d5363d8eb97c78fe00dfc03ea1
 
