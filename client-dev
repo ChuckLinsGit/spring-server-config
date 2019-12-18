@@ -1,0 +1,7 @@
+info:
+  profile: dev
+
+demo:
+  enviroment:
+#   注意：yml格式严格，加入{cipher}后整个值都用单引号围住
+     name: '{cipher}55d7330dd2cdc69a219aa7770a5c0257bbd48d636a7c3327a206a7cecb9e44cc'
