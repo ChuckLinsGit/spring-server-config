@@ -6,4 +6,4 @@ name: '{cipher}c62f59bcb94a2240a43dfb11699bfc3b56b54a8a858778c4d7d9ea706a248a49'
 demo:
   enviroment:
 #   注意：yml格式严格，加入{cipher}后整个值都用单引号围住
-     name: '{cipher}c62f59bcb94a2240a43dfb11699bfc3b56b54a8a858778c4d7d9ea706a248a49'
+     name: '{cipher}75ded6b7af7745e1b70de945a6f75ba08193c3c8e1489fabd1e31eb7dc7136e8'
