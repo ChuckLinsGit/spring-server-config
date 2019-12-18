@@ -1,7 +1,9 @@
 info:
   profile: dev
 
+name: '{cipher}c62f59bcb94a2240a43dfb11699bfc3b56b54a8a858778c4d7d9ea706a248a49'
+
 demo:
   enviroment:
 #   注意：yml格式严格，加入{cipher}后整个值都用单引号围住
-     name: '{cipher}55d7330dd2cdc69a219aa7770a5c0257bbd48d636a7c3327a206a7cecb9e44cc'
+     name: '{cipher}c62f59bcb94a2240a43dfb11699bfc3b56b54a8a858778c4d7d9ea706a248a49'
